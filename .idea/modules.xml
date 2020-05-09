@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/letcode.iml" filepath="$PROJECT_DIR$/letcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shejimoshi/shejimoshi.iml" filepath="$PROJECT_DIR$/shejimoshi/shejimoshi.iml" />
     </modules>
   </component>
 </project>
