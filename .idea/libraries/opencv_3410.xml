@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="opencv-3410">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/myjavaFx/src/main/resources/libs/opencv-3410.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/myjavaFx/src/main/resources/libs/opencv-3410.jar!/" />
+    </SOURCES>
+  </library>
+</component>

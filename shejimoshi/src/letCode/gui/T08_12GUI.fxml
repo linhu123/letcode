@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="382.0" prefWidth="575.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="letCode.gui.T0812Controller">
+   <children>
+      <Button fx:id="showDateButton" layoutX="55.0" layoutY="23.0" mnemonicParsing="false" onAction="#showDate" prefHeight="23.0" prefWidth="114.0" text="显示时间" />
+      <TextField fx:id="dataTextField" layoutX="65.0" layoutY="200.0" prefHeight="23.0" prefWidth="382.0" />
+   </children>
+</AnchorPane>
